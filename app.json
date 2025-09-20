@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Activity5",
-    "slug": "Activity5",
+    "name": "MidtermAct1",
+    "slug": "MidtermAct1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "activity5",
+    "scheme": "midtermact1",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
